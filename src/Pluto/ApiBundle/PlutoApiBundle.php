@@ -6,10 +6,11 @@
  * Time: 01:34
  */
 
-namespace Pluto\ApiBundle;
+namespace PlutoApiBundle;
 
+use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class PlutoApiBundle
+class PlutoApiBundle extends Bundle
 {
 
 }
